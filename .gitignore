@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignore IntelliJ IDEA files
+.idea/
+!.idea/codeStyles
+*.iml
+
+# Ignore build output
+/out/
+/target/
+*.class
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore environment/config files
+application.properties
+.env
+
+# Maven / Gradle
+/logs/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+build/
+.gradle/
